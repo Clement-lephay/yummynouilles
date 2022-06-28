@@ -7,18 +7,7 @@ h3{
     vertical-align: middle;
     display: table-cell;
 }
-.premiere image{
-    float: left;
-    width: 25%;
-}
-.seconde image{
-    display: inline-block;
-    width: 50%;
-}
-.trosième image{
-    float: right;
-    width: 25%;
-}
+
 strong{
     color: red;
 }
